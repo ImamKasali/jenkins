@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello world"
+echo "hello I am in $env stage"
